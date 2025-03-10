@@ -5,5 +5,17 @@ html {
 
 footer {
   text-align: center;
-  font-size: x-small;
+  font-size: medium;
+}
+p{font-size: 30px;color: rgb(66, 28, 101); font-weight: bold;}
+
+div {
+  width: 900px;
+  border: 30px solid rgb(51, 161, 135);
+  padding: 50px;
+  margin: 20px;
+}
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
 }
