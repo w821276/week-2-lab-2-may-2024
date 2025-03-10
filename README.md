@@ -16,13 +16,13 @@ A simple HTML page about me and my hobby.
 - [x] Create Readme
 - [x] Create index.html
 - [x] Update README author
-- [ ] Update Home page (index.html with my info)
-- [ ] Create gallery.html
-- [ ] Add 3 pictures
-- [ ] Create about.html
-- [ ] Create 2 lists
-- [ ] Add a tags to link the pages together
-- [ ] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
+- [X] Update Home page (index.html with my info)
+- [X] Create gallery.html
+- [X] Add 3 pictures
+- [X] Create about.html
+- [X] Create 2 lists
+- [X] Add a tags to link the pages together
+- [X] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
 
 ### Bonus and Extension
 
@@ -36,6 +36,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 ## Contact
 
 Author: robert.mccreary@codex.academy
+Author: king.ivana@gmail.com
 
 ## Acknowledgements
 
